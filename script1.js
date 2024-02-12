@@ -1,4 +1,4 @@
-var plotsBaseURL = './Scores_files/'
+var plotsBaseURL = './Score_files/'
 var imgbasename = '3m.DJF'
 
 var origin = document.querySelector("#sel_origin");
